@@ -1,0 +1,30 @@
+
+
+div{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: #dcdcdc;
+}
+img{
+    margin:0 10px;
+}
+h1{
+    font-style:italic;
+    color:#daa520;
+    text-align: center;
+}
+h2{
+    text-align:center;
+    font-style: italic;
+    color:#b8860b;
+}
+#button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #dcdcdc;
+}
